@@ -5,6 +5,6 @@ The intention of this github repository is to provide a changelog for the subred
 
 Head to [CHANGELOG.md](https://github.com/AnimeWallpapersSFW/changelog/blob/main/CHANGELOG.md) to see the changelog.
 
-To see actual commits and their changes, click "X commits" on the top right, or click [here](https://github.com/AnimeWallpapersSFW/changelog/commits/main).
+To see actual commits and their changes, click "X commits" on the top right under the green "Code" button, or click [here](https://github.com/AnimeWallpapersSFW/changelog/commits/main).
 
 [RULES.md](https://github.com/AnimeWallpapersSFW/changelog/blob/main/RULES.md) provides all the rules of the subreddit, but is used to show change over time. When a rule is updated, it will be logged here in this file to show how the rule changed.
