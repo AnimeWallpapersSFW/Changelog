@@ -4,7 +4,7 @@
 
 You're allowed to post things that are slightly NSFW, but nothing that can be considered sexual in nature.
 
-Basically, [changing clothes](https://i.imgur.com/TOJSWC2.png) or [a seductive or nsfw pose](https://i.imgur.com/R5LtFAA.png) is not okay, but something that [shows skin](https://i.imgur.com/71li6e8.png) is okay.
+Basically, posts that include [changing clothes](https://i.imgur.com/TOJSWC2.png), [sexually suggestive posing/emphasis](https://i.imgur.com/9l0tYMS.jpg), or [nearly naked](https://i.imgur.com/R5LtFAA.png) are not okay, but something that [shows skin](https://i.imgur.com/zm7LLfO.jpg) or has a [character with large breasts](https://i.imgur.com/6BuvsyS.png) is okay.
 
 ## 2. You Must Provide a Link to the OC
 
