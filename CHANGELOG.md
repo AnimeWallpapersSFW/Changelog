@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-12-05
+
+### Added
+- Updated the "Source Images" section to include links to the images provided in Rule 1.
+
+### Changed
+- Changed the "Banner and Icon" source widget title to "Source Images".
+
 ## [1.0.0] - 2020-12-05
 
 ### Changed
