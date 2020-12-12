@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.1] - 2020-12-05
+## [1.0.1] - 2020-12-11
 
 ### Added
 - Updated the "Source Images" section to include links to the images provided in Rule 1.
